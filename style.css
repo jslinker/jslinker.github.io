@@ -49,26 +49,6 @@ p {
   background-color: rgba(0, 0, 0, 0.5);
 }
 
-/* Jumbotron */
-.jumbotron h1 {
-    font-size: 18px;
-    font-family: 'Source Sans Pro', sans-serif;
-    color:white;
-}
-
-.jumbotron {
-    background: rgba(0, 0, 0, 0);
-    position: relative;
-    top: 30px;
-    text-shadow: 0 2px 3px rgba(0,0,0,.4);
-    text-align:center;
-    max-width: 320;
-}
-
-.jumbotron a {
-  color:RGB(38, 128, 187);
-}
-
 /* Supporting */
 .supporting {
   margin-top: 120px;
@@ -79,4 +59,8 @@ p {
 
 .supporting p {
   font-family: 'Source Sans Pro', sans-serif;
+}
+
+.row {
+    margin-bottom: 40px;
 }
